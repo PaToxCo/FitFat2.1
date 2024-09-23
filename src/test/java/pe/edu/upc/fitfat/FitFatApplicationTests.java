@@ -9,5 +9,4 @@ class FitFatApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
